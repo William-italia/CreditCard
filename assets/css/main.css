@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    margin: 10px auto;
+    width: 321px;
+    height: 200px;
+    background: #0a57a8;
+    display: block;
+    position: relative;
+    border-radius: 1rem;
+}
+
+.country-validity {
+    position: absolute;
+    top: 45%;
+    left: -2rem;
+    font-size: .6rem;
+    color: #fff;
+    transform: rotate(-90deg);
+}
