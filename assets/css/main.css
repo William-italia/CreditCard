@@ -22,3 +22,10 @@
     color: #fff;
     transform: rotate(-90deg);
 }
+
+.cima {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 1.5rem ;
+    color: #fff;
+}
