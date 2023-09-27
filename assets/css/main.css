@@ -10,7 +10,13 @@ body {
     background: #333;
 }
 
-
+.container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 .cartao {
     position: relative;
@@ -68,6 +74,7 @@ body {
     padding: 1rem 1.8rem;
     color: #fff;
 }
+
 .cima p {
     font-size: .7rem;
 }
